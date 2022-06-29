@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "990784806849",
+    "project_id": "butunlemeodevi2",
+    "storage_bucket": "butunlemeodevi2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990784806849:android:9ce710dd778d1b9fa05940",
+        "android_client_info": {
+          "package_name": "com.example.butunlemeodev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "990784806849-t7ui17laoj8f0sgda8tt0vjveul3ifch.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBubDn25N3H2CGWWXD-BE3_99gxGFieDwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "990784806849-t7ui17laoj8f0sgda8tt0vjveul3ifch.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
